@@ -1,5 +1,6 @@
 # math-as-code
 
+$\sigma$
 >[Chinese translation (中文版)](./README-zh.md)  
 >[Python version (English)](./PYTHON-README.md)
 
